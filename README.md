@@ -14,7 +14,6 @@
   <img width="80%" src="https://github-profile-trophy.vercel.app/?username=code-nick&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<a href="#">[![Tap to Reload](https://metrics.lecoq.io/code-nick?template=classic&base.metadata=0&base.hireable=true&repositories.forks=true&base.header=0&base.community=0&base.repositories=0&languages=1&achievements=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)](https://www.github.com/code-nick)</a>
 
 <div align="center">  
 <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -44,6 +43,9 @@
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+<a href="#">[![Tap to Reload](https://metrics.lecoq.io/code-nick?template=classic&base.metadata=0&base.hireable=true&repositories.forks=true&base.header=0&base.community=0&base.repositories=0&languages=1&achievements=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)](https://www.github.com/code-nick)</a>
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
